@@ -4,7 +4,7 @@
 
 - 💻 I’m currently a Front-end Web Developer | UX Designer
 - 🌱 I’m also learning Backend Web Development
-- 📫 Contact Me: LinkedIn - [shubham-jagtap28](www.linkedin.com/in/shubham-jagtap28) , Gmail - shubhamdhs@gmail.com
+- 📫 Contact Me: LinkedIn - www.linkedin.com/in/shubham-jagtap28 , Gmail - shubhamdhs@gmail.com
 - ❤️ Programming | Designing | Cricket
 - 📵 Lives life without Social Media
 
